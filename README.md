@@ -1,2 +1,2 @@
-# AnaliseExploratoria
+# AnaliseExploratoria.
 Análise exploratória Rstudio com GitHub.
